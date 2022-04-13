@@ -1,0 +1,4 @@
+/home/user/neededlibrary/BundleFusion_Ubuntu_V0/build/CMakeFiles/rebuild_cache.dir
+/home/user/neededlibrary/BundleFusion_Ubuntu_V0/build/CMakeFiles/edit_cache.dir
+/home/user/neededlibrary/BundleFusion_Ubuntu_V0/build/CMakeFiles/FriedLiver.dir
+/home/user/neededlibrary/BundleFusion_Ubuntu_V0/build/CMakeFiles/BundleFusion_Ubuntu.dir

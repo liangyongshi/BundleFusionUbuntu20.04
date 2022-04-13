@@ -10,8 +10,8 @@
 //#ifdef OPEN_NI
 
 #include "RGBDSensor.h"
-#include <OpenNI.h>
-
+/*#include <OpenNI.h>*/
+#include <openni2/OpenNI.h>
 #include <vector>
 #include <list>
 

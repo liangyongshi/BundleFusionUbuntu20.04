@@ -234,7 +234,7 @@ bool PrimeSenseSensor::readDepthAndColor(float* depthFloat, vec4uc* colorRGBX)
          if (sc == STATUS_OK)
         {
             const Mat ImageRGB(m_colorFrame.getHeight(), m_colorFrame.getWidth(), CV_8UC3, (void*)m_colorFrame.getData());   //获取彩色图
-            cvtColor(ImageRGB, imRGB, CV_RGB2BGR);
+            cvtColor(ImageRGB, imRGB, COLOR_BGR2RGB);
            // imshow("RGB Image",imRGB);
            // cv::waitKey(10);
 
